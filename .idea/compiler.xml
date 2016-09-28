@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="DBJava" />
+        <module name="Integration" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="DBJava" target="1.7" />
+      <module name="Integration" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>

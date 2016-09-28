@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.cordon</groupId>
-    <artifactId>DBJava</artifactId>
+    <artifactId>Integration</artifactId>
     <version>0.1</version>
 
     <!-- Coordinates are nice, but so are names and descriptions for humans. -->

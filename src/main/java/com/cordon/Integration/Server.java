@@ -1,4 +1,4 @@
-package com.cordon.DBJava;
+package com.cordon.Integration;
 
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
